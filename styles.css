@@ -1,1 +1,15 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: bisque;
+    line-height: normal;
+}
+
+header {
+    background-color: bisque;
+    color:cornflowerblue;
+    padding: 10px 0;
+    text-align: center;
+}
