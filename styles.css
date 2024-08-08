@@ -7,15 +7,16 @@ body {
     line-height: normal;
 }
 
-/* header {
+h2 {
     background-color: bisque;
     color:cornflowerblue;
     padding: 10px 0;
     text-align: center;
-} */
+}
 #testP{
-    color: green;
+    background-color: bisque;
     padding: 10px;
+    color: green;
 
 }
     .funParagragh {
